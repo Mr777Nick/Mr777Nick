@@ -150,3 +150,8 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/abstract" />](https://www.abstract.com/)
 
 </details>
+
+## My Stats
+
+<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:SHOW_COMMIT-->
