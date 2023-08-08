@@ -151,6 +151,12 @@ Bagas has five years of experience in software development. He has delivered awa
 
 </details>
 
+## Certifications
+
+[<img height="200" width="200" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/4feca77a-97c3-4a65-95ff-6c45e95b4628)
+[<img height="200" width="200" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />](https://www.credly.com/badges/e62e292e-2549-470d-9106-2dc105b7af7c)
+[<img height="200" width="200" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />](https://www.credly.com/badges/ef34f050-e845-4bcf-b717-c5f22d13bf72)
+
 ## My Stats
 
 <!--START_SECTION:SHOW_COMMIT-->
