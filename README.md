@@ -28,9 +28,9 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/spotify" />](https://open.spotify.com/user/21tybanh7pmggsk7ibsvbyvha)
 
 
-### Tech Stacks:
+## Tech Stacks
 
-#### Languages and frameworks
+### Languages and frameworks
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://www.javascript.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />](https://www.typescriptlang.org/)
@@ -53,7 +53,7 @@ Bagas has five years of experience in software development. He has delivered awa
 
 <summary> See more... </summary>
 
-#### Databases and Storages
+### Databases and Storages
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />](https://www.mysql.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />](https://www.sqlite.org/)
@@ -67,13 +67,13 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/supabase" />](https://supabase.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/hasura" />](https://hasura.io/)
 
-#### UI Libraries
+### UI Libraries
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mui" />](https://mui.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />](https://getbootstrap.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />](https://tailwindcss.com/)
 
-#### Cloud Platforms and Deployment Tools
+### Cloud Platforms and Deployment Tools
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" />](https://aws.amazon.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />](https://cloud.google.com/)
@@ -92,7 +92,7 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/bitbucket" />](https://bitbucket.org/product/features/pipelines)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/cpanel" />](https://cpanel.net/)
 
-#### Authentication and Payment
+### Authentication and Payment
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/auth0" />](https://auth0.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/supabase" />](https://supabase.com/auth)
@@ -101,7 +101,7 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/stripe" />](https://stripe.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/gitter" />](https://midtrans.com/)
 
-#### Tools and Development
+### Tools and Development
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />](https://code.visualstudio.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />](https://www.docker.com/)
@@ -109,34 +109,34 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/eslint" />](https://eslint.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/prettier" />](https://prettier.io/)
 
-#### Version Control and Collaboration
+### Version Control and Collaboration
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/git" />](https://git-scm.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/github" />](https://github.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/bitbucket" />](https://bitbucket.org/product)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />](https://about.gitlab.com/)
 
-#### Testings
+### Testings
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />](https://jestjs.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/cypress" />](https://www.cypress.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />](https://testing-library.com/)
 
-#### Monitoring and Error Reporting
+### Monitoring and Error Reporting
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/sentry" />](https://sentry.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/datadog" />](https://www.datadoghq.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/kibana" />](https://www.elastic.co/kibana)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/grafana" />](https://grafana.com/)
 
-#### Queue
+### Queue
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq" />](https://www.rabbitmq.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />](https://kafka.apache.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/amazonsqs" />](https://aws.amazon.com/sqs/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mqtt" />](https://mqtt.org/)
 
-#### Others
+### Others
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/electron" />](https://electronjs.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/electronbuilder" />](https://www.electron.build/index.html)
