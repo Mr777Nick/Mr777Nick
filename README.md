@@ -8,7 +8,7 @@ Bagas has five years of experience in software development. He has delivered awa
 
 ## I'm a Full Stack Developer, currently focusing on Javascript/Typescript frameworks
 
-- 🔭 I’m currently working on Toptal
+- 🔭 I’m currently working on Digication
 - 🌱 I’m currently learning OpenAI API and Next.js App Router
 - 👯 I’m looking to collaborate on projects utilizing OpenAI API
 - 🤔 I’m looking for help with Blockchain
