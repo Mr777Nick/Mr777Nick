@@ -159,5 +159,5 @@ Bagas has five years of experience in software development. He has delivered awa
 
 ## My Stats
 
-<!--START_SECTION:SHOW_COMMIT-->
-<!--END_SECTION:SHOW_COMMIT-->
+<!--START_SECTION:CodingStats-->
+<!--END_SECTION:CodingStats-->

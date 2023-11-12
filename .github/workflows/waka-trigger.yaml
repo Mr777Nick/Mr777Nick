@@ -19,7 +19,7 @@ jobs:
           REPOSITORY: Mr777Nick/Mr777Nick # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: Coding Statistics # optional
+          SECTION_NAME: CodingStats # optional
           # BLOCKS: -> # optional
           # CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
