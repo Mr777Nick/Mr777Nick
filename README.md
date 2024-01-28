@@ -243,5 +243,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2024 18:41:35 UTC
+ Last Updated on 28/01/2024 18:41:37 UTC
 <!--END_SECTION:CodingStats-->
