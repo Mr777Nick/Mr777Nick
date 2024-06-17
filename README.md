@@ -160,6 +160,8 @@ Bagas has five years of experience in software development. He has delivered awa
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -240,5 +242,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 18:44:58 UTC
+ Last Updated on 17/06/2024 18:46:30 UTC
 <!--END_SECTION:CodingStats-->
