@@ -168,6 +168,8 @@ Bagas has five years of experience in software development. He has delivered awa
 
 > 📦 136.0 kB Used in GitHub's Storage 
  > 
+> 🏆 423 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -201,22 +203,16 @@ Sunday                   187 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    13 mins             ████████████████████░░░░░   80.62 % 
-TypeScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   13 mins             ████████████████████░░░░░   80.62 % 
-VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-DataGrip                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-digication-monorepo      14 mins             █████████████████████░░░░   85.76 % 
-campus-web               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-simple-auction-next      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -236,5 +232,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:46:41 UTC
+ Last Updated on 24/08/2024 18:45:13 UTC
 <!--END_SECTION:CodingStats-->
