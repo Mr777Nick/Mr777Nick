@@ -160,11 +160,13 @@ Bagas has five years of experience in software development. He has delivered awa
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 138.2 kB Used in GitHub's Storage 
+> 📦 138.3 kB Used in GitHub's Storage 
  > 
 > 🏆 106 Contributions in the Year 2025
  > 
@@ -174,6 +176,45 @@ Bagas has five years of experience in software development. He has delivered awa
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                644 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+🌆 Daytime                25415 commits       ████████████████░░░░░░░░░   62.37 % 
+🌃 Evening                12066 commits       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌙 Night                  2622 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3283 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Tuesday                  10617 commits       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Wednesday                10542 commits       ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Thursday                 8970 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Friday                   6591 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Saturday                 535 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Sunday                   209 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -191,5 +232,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 18:47:33 UTC
+ Last Updated on 16/02/2025 18:47:56 UTC
 <!--END_SECTION:CodingStats-->
