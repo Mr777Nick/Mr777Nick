@@ -168,6 +168,8 @@ Bagas has five years of experience in software development. He has delivered awa
 
 > 📦 140.1 kB Used in GitHub's Storage 
  > 
+> 🏆 378 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -235,5 +237,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 18:54:11 UTC
+ Last Updated on 03/08/2025 18:56:02 UTC
 <!--END_SECTION:CodingStats-->
