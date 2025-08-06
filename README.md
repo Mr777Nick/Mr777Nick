@@ -160,13 +160,15 @@ Bagas has five years of experience in software development. He has delivered awa
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C792%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 140.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 378 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -201,21 +203,21 @@ Sunday                   246 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    11 hrs 32 mins      ████████████████████░░░░░   78.13 % 
-SQL                      3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    10 hrs 51 mins      █████████████████████░░░░   85.90 % 
+SQL                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 55 mins      ██████████████████████░░░   87.58 % 
-DataGrip                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Chrome                   12 hrs 14 mins      ████████████████████████░   96.94 % 
+DataGrip                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-simple-auction-next      8 hrs 2 mins        ██████████████░░░░░░░░░░░   54.48 % 
-campus-web               4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-digication-monorepo      2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+simple-auction-next      5 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.40 % 
+campus-web               4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+digication-monorepo      2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 
 💻 Operating System: 
-Mac                      14 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -235,5 +237,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 18:59:02 UTC
+ Last Updated on 06/08/2025 18:59:41 UTC
 <!--END_SECTION:CodingStats-->
