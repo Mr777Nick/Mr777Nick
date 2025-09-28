@@ -160,8 +160,6 @@ Bagas has five years of experience in software development. He has delivered awa
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%2051%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -176,48 +174,6 @@ Bagas has five years of experience in software development. He has delivered awa
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                856 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-🌆 Daytime                54594 commits       ████████████████░░░░░░░░░   62.50 % 
-🌃 Evening                26421 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌙 Night                  5473 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6909 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Tuesday                  21250 commits       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Wednesday                21340 commits       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Thursday                 21563 commits       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Friday                   14935 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Saturday                 1101 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Sunday                   246 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Other                    12 hrs 38 mins      ███████████████████████░░   92.16 % 
-YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-
-🔥 Editors: 
-Chrome                   13 hrs 42 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-campus-web               7 hrs 32 mins       ██████████████░░░░░░░░░░░   54.98 % 
-digication-monorepo      5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.24 % 
-graphql-tag              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-
-💻 Operating System: 
-Mac                      13 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -235,5 +191,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:53:09 UTC
+ Last Updated on 28/09/2025 18:53:17 UTC
 <!--END_SECTION:CodingStats-->
