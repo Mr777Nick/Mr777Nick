@@ -19,10 +19,10 @@ Bagas has five years of experience in software development. He has delivered awa
 
 ### Connect with me on:
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/yahoo" />](mailto:bagas_naufal96@yahoo.co.id)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" />](mailto:bagas_naufal96@yahoo.co.id)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/bagasnaufalinsani)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow" />](https://stackoverflow.com/users/8262346/bagas-naufal-insani)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/twitter" />](https://twitter.com/bagasn7)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/x" />](https://twitter.com/bagasn7)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/bagas.n7)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/facebook" />](https://www.facebook.com/bagas.naufal.insani)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/spotify" />](https://open.spotify.com/user/21tybanh7pmggsk7ibsvbyvha)
@@ -35,7 +35,7 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://www.javascript.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />](https://www.css3.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/css" />](https://www.css3.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/react" />](https://react.dev/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/next.js" />](https://nextjs.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />](https://nodejs.org/)
