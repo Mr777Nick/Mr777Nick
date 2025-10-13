@@ -1,4 +1,4 @@
-<picture>
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/dd3498cf-1fca-45e3-8f52-3621d6239358" /><img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/5a228e3d-4438-416d-ba82-f7934f9dd5e7" /><picture>
  <source media="(prefers-color-scheme: dark)" srcset="./assets/Name (dark).png">
  <source media="(prefers-color-scheme: light)" srcset="./assets/Name (light).png">
  <img alt="Hi, I'm Bagas Naufal Insani" src="./assets/Name (dark).png">
