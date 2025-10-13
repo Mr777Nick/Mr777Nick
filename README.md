@@ -58,9 +58,9 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />](https://www.sqlite.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />](https://www.postgresql.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/graphql" />](https://graphql.org/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonrds" />](https://aws.amazon.com/rds/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" />](https://aws.amazon.com/rds/)
 [<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" />](https://aws.amazon.com/s3/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb" />](https://aws.amazon.com/dynamodb/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" />](https://aws.amazon.com/dynamodb/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />](https://www.mongodb.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />](https://firebase.google.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/supabase" />](https://supabase.com/)
@@ -74,18 +74,18 @@ Bagas has five years of experience in software development. He has delivered awa
 
 ### Cloud Platforms and Deployment Tools
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" />](https://aws.amazon.com/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Beanstalk.svg" />](https://aws.amazon.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />](https://cloud.google.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vercel" />](https://vercel.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean" />](https://www.digitalocean.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />](https://www.heroku.com/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonapigateway" />](https://aws.amazon.com/api-gateway/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/awslambda" />](https://aws.amazon.com/lambda/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/awsfargate" />](https://aws.amazon.com/fargate/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2" />](https://aws.amazon.com/ec2/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/awsamplify" />](https://aws.amazon.com/amplify/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonecs" />](https://aws.amazon.com/ecs/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazoneks" />](https://aws.amazon.com/id/eks/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" />](https://aws.amazon.com/api-gateway/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" />](https://aws.amazon.com/lambda/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Compute/Fargate.svg" />](https://aws.amazon.com/fargate/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" />](https://aws.amazon.com/ec2/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Front-End-Web-Mobile/Amplify.svg" />](https://aws.amazon.com/amplify/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" />](https://aws.amazon.com/ecs/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Kubernetes-Service.svg" />](https://aws.amazon.com/id/eks/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" />](https://kubernetes.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />](https://github.com/features/actions)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/bitbucket" />](https://bitbucket.org/product/features/pipelines)
@@ -95,7 +95,7 @@ Bagas has five years of experience in software development. He has delivered awa
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/auth0" />](https://auth0.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/supabase" />](https://supabase.com/auth)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" />](https://aws.amazon.com/cognito/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" />](https://aws.amazon.com/cognito/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/jsonwebtokens" />](https://jwt.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/stripe" />](https://stripe.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/gitter" />](https://midtrans.com/)
@@ -132,7 +132,7 @@ Bagas has five years of experience in software development. He has delivered awa
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq" />](https://www.rabbitmq.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />](https://kafka.apache.org/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazonsqs" />](https://aws.amazon.com/sqs/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" />](https://aws.amazon.com/sqs/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mqtt" />](https://mqtt.org/)
 
 ### Others
