@@ -19,7 +19,7 @@ Bagas has five years of experience in software development. He has delivered awa
 ### Connect with me on:
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" />](mailto:bagas_naufal96@yahoo.co.id)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/bagasnaufalinsani)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/lobsters" />](https://www.linkedin.com/in/bagasnaufalinsani)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow" />](https://stackoverflow.com/users/8262346/bagas-naufal-insani)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/x" />](https://twitter.com/bagasn7)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/bagas.n7)
@@ -59,7 +59,7 @@ Bagas has five years of experience in software development. He has delivered awa
 [<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />](https://www.postgresql.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/graphql" />](https://graphql.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/amazonrds" />](https://aws.amazon.com/rds/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/amazons3" />](https://aws.amazon.com/s3/)
+[<img height="32" width="32" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" />](https://aws.amazon.com/s3/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb" />](https://aws.amazon.com/dynamodb/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />](https://www.mongodb.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />](https://firebase.google.com/)
