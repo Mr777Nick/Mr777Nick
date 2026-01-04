@@ -160,7 +160,9 @@ Bagas has five years of experience in software development. He has delivered awa
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C096%20hrs%2043%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -174,6 +176,45 @@ Bagas has five years of experience in software development. He has delivered awa
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1528 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+🌆 Daytime                54832 commits       ██████████████░░░░░░░░░░░   55.28 % 
+🌃 Evening                32509 commits       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌙 Night                  10327 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9000 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Tuesday                  22769 commits       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Wednesday                22864 commits       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Thursday                 25811 commits       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Friday                   17110 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 1303 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Sunday                   339 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -191,5 +232,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:58:15 UTC
+ Last Updated on 04/01/2026 18:58:45 UTC
 <!--END_SECTION:CodingStats-->
