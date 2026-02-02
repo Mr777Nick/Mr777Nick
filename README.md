@@ -160,13 +160,15 @@ Bagas has five years of experience in software development. He has delivered awa
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%209%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 141.9 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -174,6 +176,51 @@ Bagas has five years of experience in software development. He has delivered awa
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1553 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌆 Daytime                53252 commits       █████████████░░░░░░░░░░░░   53.10 % 
+🌃 Evening                34501 commits       █████████░░░░░░░░░░░░░░░░   34.40 % 
+🌙 Night                  10982 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9593 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Tuesday                  22665 commits       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Wednesday                23350 commits       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Thursday                 25666 commits       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Friday                   17270 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Saturday                 1416 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Sunday                   328 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Other                    13 hrs 28 mins      ████████████████░░░░░░░░░   65.89 % 
+JavaScript               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Chrome                   20 hrs 25 mins      █████████████████████████   99.93 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🐱‍💻 Projects: 
+campus-web               10 hrs 39 mins      █████████████░░░░░░░░░░░░   52.18 % 
+digication-monorepo      9 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.75 % 
+simple-auction-next      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+💻 Operating System: 
+Mac                      20 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -191,5 +238,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:02:11 UTC
+ Last Updated on 02/02/2026 19:08:26 UTC
 <!--END_SECTION:CodingStats-->
