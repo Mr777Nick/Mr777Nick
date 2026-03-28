@@ -203,21 +203,16 @@ Sunday                   304 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       ██████████████████████░░░   89.00 % 
-SQL                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-campus-web               3 hrs 2 mins        ███████████████████░░░░░░   75.51 % 
-digication-monorepo      54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-hass-scene_presets       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-adaptive-lighting        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-aiochroma                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -237,5 +232,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 19:04:33 UTC
+ Last Updated on 28/03/2026 19:02:10 UTC
 <!--END_SECTION:CodingStats-->
