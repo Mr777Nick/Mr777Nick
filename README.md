@@ -3,7 +3,7 @@
  <img alt="Hi, I'm Bagas Naufal Insani" src="./assets/Name (dark).png">
 </picture>
 
-Bagas has five years of experience in software development. He has delivered award-winning projects, encompassing websites, mobile apps, embedded systems, and IoT. He has delivered high-complexity product systems for culinary, cloud kitchens, hospitality, and gaming companies. Bagas uses JavaScript, TypeScript, React, Node.js, Express.js, and NestJS for web app development. Most recently, he created an online gaming platform that lets people earn money when playing motorsport video games.
+Bagas has six years of experience in software development. He has delivered award-winning projects, encompassing websites, mobile apps, embedded systems, and IoT. He has delivered high-complexity product systems for culinary, cloud kitchens, hospitality, and gaming companies. Bagas uses JavaScript, TypeScript, React, Node.js, Express.js, and NestJS for web app development. Most recently, he created an online gaming platform that lets people earn money when playing motorsport video games.
 
 ## I'm a Full Stack Developer, currently focusing on Javascript/Typescript frameworks
 
