@@ -162,7 +162,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C343%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C347%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -205,19 +205,19 @@ Sunday                   300 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    11 hrs 44 mins      ████████████████████████░   96.64 % 
-SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Other                    14 hrs 43 mins      ████████████████████████░   97.87 % 
+SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 9 mins       █████████████████████████   100.00 % 
+Chrome                   15 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campus-web               10 hrs 12 mins      █████████████████████░░░░   84.02 % 
-digication-monorepo      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-chef-opsworks            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+campus-web               11 hrs 4 mins       ██████████████████░░░░░░░   73.60 % 
+digication-monorepo      3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+digication-com-2026      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-Mac                      12 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -237,5 +237,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 19:47:08 UTC
+ Last Updated on 27/05/2026 19:45:32 UTC
 <!--END_SECTION:CodingStats-->
