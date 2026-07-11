@@ -162,7 +162,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C429%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -205,18 +205,18 @@ Sunday                   299 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    7 hrs 38 mins       ███████████████████████░░   90.05 % 
-SQL                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Other                    8 hrs 33 mins       ███████████████████████░░   91.03 % 
+SQL                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 29 mins       █████████████████████████   100.00 % 
+Chrome                   9 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      7 hrs 11 mins       █████████████████████░░░░   84.66 % 
-campus-web               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+digication-monorepo      8 hrs 6 mins        ██████████████████████░░░   86.16 % 
+campus-web               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 
 💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -236,5 +236,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 20:25:00 UTC
+ Last Updated on 11/07/2026 20:00:17 UTC
 <!--END_SECTION:CodingStats-->
