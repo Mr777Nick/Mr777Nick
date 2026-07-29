@@ -162,6 +162,10 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -176,6 +180,52 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1376 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+🌆 Daytime                61206 commits       ██████████████░░░░░░░░░░░   56.56 % 
+🌃 Evening                35925 commits       ████████░░░░░░░░░░░░░░░░░   33.20 % 
+🌙 Night                  9715 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9426 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Tuesday                  24771 commits       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Wednesday                25792 commits       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Thursday                 27849 commits       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Friday                   18716 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Saturday                 1369 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Sunday                   299 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Other                    8 hrs 22 mins       █████████████████████████   99.99 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Chrome                   8 hrs 22 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+digication-monorepo      8 hrs 22 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -193,5 +243,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:28:41 UTC
+ Last Updated on 29/07/2026 20:18:43 UTC
 <!--END_SECTION:CodingStats-->
