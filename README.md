@@ -162,7 +162,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2016%20mins-blue?style=flat)
 
@@ -170,7 +170,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 **🐱 My GitHub Data** 
 
-> 📦 143.6 kB Used in GitHub's Storage 
+> 📦 143.7 kB Used in GitHub's Storage 
  > 
 > 🏆 285 Contributions in the Year 2026
  > 
@@ -207,18 +207,18 @@ Sunday                   299 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    10 hrs 14 mins      █████████████████████████   98.37 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    12 hrs 32 mins      █████████████████████████   98.63 % 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 24 mins      █████████████████████████   100.00 % 
+Chrome                   12 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      9 hrs 49 mins       ████████████████████████░   94.36 % 
-campus-web               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+digication-monorepo      9 hrs 49 mins       ███████████████████░░░░░░   77.32 % 
+campus-web               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 
 💻 Operating System: 
-Mac                      10 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -244,5 +244,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:28:21 UTC
+ Last Updated on 01/08/2026 20:03:25 UTC
 <!--END_SECTION:CodingStats-->
