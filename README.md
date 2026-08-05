@@ -162,7 +162,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2016%20mins-blue?style=flat)
 
@@ -170,9 +170,9 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 **🐱 My GitHub Data** 
 
-> 📦 143.7 kB Used in GitHub's Storage 
+> 📦 143.8 kB Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2026
+> 🏆 484 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -183,20 +183,20 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1422 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-🌆 Daytime                62647 commits       ██████████████░░░░░░░░░░░   56.73 % 
-🌃 Evening                36483 commits       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌙 Night                  9871 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+🌞 Morning                1429 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+🌆 Daytime                63116 commits       ██████████████░░░░░░░░░░░   56.85 % 
+🌃 Evening                36594 commits       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌙 Night                  9883 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   9723 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Tuesday                  25349 commits       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Wednesday                26094 commits       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Thursday                 28470 commits       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Friday                   19052 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 1418 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Monday                   9797 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  25530 commits       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Wednesday                26146 commits       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Thursday                 28664 commits       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Friday                   19142 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 1426 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 Sunday                   317 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
@@ -207,18 +207,19 @@ Sunday                   317 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    11 hrs              █████████████████████████   98.18 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    13 hrs 29 mins      ████████████████████████░   96.94 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 12 mins      █████████████████████████   100.00 % 
+Chrome                   13 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campus-web               6 hrs 43 mins       ███████████████░░░░░░░░░░   60.03 % 
-digication-monorepo      4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
+campus-web               8 hrs 36 mins       ███████████████░░░░░░░░░░   61.90 % 
+digication-monorepo      2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+rtk                      2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 
 💻 Operating System: 
-Mac                      11 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -244,5 +245,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:35:28 UTC
+ Last Updated on 05/08/2026 20:35:36 UTC
 <!--END_SECTION:CodingStats-->
