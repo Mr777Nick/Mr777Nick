@@ -162,6 +162,10 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -176,6 +180,80 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1492 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+🌆 Daytime                63846 commits       ██████████████░░░░░░░░░░░   56.54 % 
+🌃 Evening                37395 commits       ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌙 Night                  10189 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9932 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Tuesday                  25805 commits       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Wednesday                26850 commits       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Thursday                 29017 commits       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Friday                   19518 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Saturday                 1465 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Sunday                   335 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Other                    14 hrs 14 mins      ██████████████░░░░░░░░░░░   57.71 % 
+TypeScript               5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Markdown                 4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+🔥 Editors: 
+Chrome                   14 hrs 29 mins      ███████████████░░░░░░░░░░   58.77 % 
+Claude Code              8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+DataGrip                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Exec Wakatime            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+
+🐱‍💻 Projects: 
+campus-web               10 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.83 % 
+digication-monorepo      4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+simple-auction-next      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+rtk                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+soc2-agent               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+
+💻 Operating System: 
+Mac                      24 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 10 mins (41.23%)
+
+✍️ 9,609 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 465,912,122 Input Tokens, 1,174,911 Output Tokens
+
+💵 $2307.33 Estimated AI Cost This Week
+
+🧠 44 AI Sessions, 113 AI Prompts
+
+Opus                     9,673 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,886 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -193,5 +271,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:48:08 UTC
+ Last Updated on 07/08/2026 19:55:14 UTC
 <!--END_SECTION:CodingStats-->
