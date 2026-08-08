@@ -166,11 +166,11 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 143.8 kB Used in GitHub's Storage 
+> 📦 143.9 kB Used in GitHub's Storage 
  > 
 > 🏆 495 Contributions in the Year 2026
  > 
@@ -207,49 +207,49 @@ Sunday                   335 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    14 hrs 14 mins      ██████████████░░░░░░░░░░░   57.71 % 
-TypeScript               5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Markdown                 4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Other                    14 hrs 7 mins       ████████████████░░░░░░░░░   65.14 % 
+TypeScript               4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 29 mins      ███████████████░░░░░░░░░░   58.77 % 
-Claude Code              8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-DataGrip                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Exec Wakatime            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Chrome                   14 hrs 23 mins      █████████████████░░░░░░░░   66.34 % 
+Claude Code              7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
+DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-campus-web               10 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.83 % 
-digication-monorepo      4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-simple-auction-next      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-rtk                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-soc2-agent               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+campus-web               8 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.30 % 
+simple-auction-next      4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+digication-monorepo      4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+rtk                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+digication-docs          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Mac                      24 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 10 mins (41.23%)
+⏱ AI Coding Time: 7 hrs 18 mins (33.66%)
 
-✍️ 9,609 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,048 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 465,912,122 Input Tokens, 1,174,911 Output Tokens
+🔤 421,165,414 Input Tokens, 834,451 Output Tokens
 
-💵 $2307.33 Estimated AI Cost This Week
+💵 $2113.30 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 113 AI Prompts
+🧠 25 AI Sessions, 86 AI Prompts
 
-Opus                     9,673 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     9,107 lines         █████████████████████████   100.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,886 characters per prompt
+📚 Verbose Prompter — average 1,885 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -271,5 +271,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:55:14 UTC
+ Last Updated on 08/08/2026 19:28:37 UTC
 <!--END_SECTION:CodingStats-->
