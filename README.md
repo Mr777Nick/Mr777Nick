@@ -183,20 +183,20 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1492 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-🌆 Daytime                63846 commits       ██████████████░░░░░░░░░░░   56.54 % 
-🌃 Evening                37395 commits       ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌙 Night                  10189 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌞 Morning                1493 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+🌆 Daytime                64080 commits       ██████████████░░░░░░░░░░░   56.60 % 
+🌃 Evening                37446 commits       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+🌙 Night                  10191 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   9932 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Tuesday                  25805 commits       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Wednesday                26850 commits       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Thursday                 29017 commits       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Friday                   19518 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Saturday                 1465 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Monday                   9969 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Tuesday                  25895 commits       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Wednesday                26869 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Thursday                 29110 commits       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Friday                   19563 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Saturday                 1469 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 Sunday                   335 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
@@ -207,33 +207,33 @@ Sunday                   335 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    14 hrs 7 mins       ████████████████░░░░░░░░░   65.14 % 
-TypeScript               4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other                    14 hrs 35 mins      ████████████████░░░░░░░░░   65.88 % 
+TypeScript               4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 23 mins      █████████████████░░░░░░░░   66.34 % 
-Claude Code              7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
+Chrome                   14 hrs 51 mins      █████████████████░░░░░░░░   67.05 % 
+Claude Code              7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
 DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-campus-web               8 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.30 % 
-simple-auction-next      4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-digication-monorepo      4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-rtk                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-digication-docs          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+campus-web               8 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+simple-auction-next      5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+digication-monorepo      4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+rtk                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+digication-docs          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 💻 Operating System: 
-Mac                      21 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (33.66%)
+⏱ AI Coding Time: 7 hrs 18 mins (32.95%)
 
 ✍️ 9,048 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -271,5 +271,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:28:37 UTC
+ Last Updated on 09/08/2026 19:34:56 UTC
 <!--END_SECTION:CodingStats-->
