@@ -162,7 +162,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2040%20mins-blue?style=flat)
 
@@ -172,7 +172,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 > 📦 144.0 kB Used in GitHub's Storage 
  > 
-> 🏆 542 Contributions in the Year 2026
+> 🏆 546 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -184,17 +184,17 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 ```text
 🌞 Morning                1548 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-🌆 Daytime                64812 commits       ██████████████░░░░░░░░░░░   56.45 % 
-🌃 Evening                38021 commits       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌙 Night                  10442 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                64812 commits       ██████████████░░░░░░░░░░░   56.44 % 
+🌃 Evening                38022 commits       ████████░░░░░░░░░░░░░░░░░   33.11 % 
+🌙 Night                  10447 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   10203 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 Tuesday                  26215 commits       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Wednesday                27272 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Thursday                 29439 commits       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Wednesday                27273 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Thursday                 29444 commits       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 Friday                   19823 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 Saturday                 1512 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 Sunday                   359 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
@@ -207,50 +207,47 @@ Sunday                   359 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    15 hrs 12 mins      ██████████████████░░░░░░░   72.59 % 
-TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-SQL                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    16 hrs 28 mins      ███████████████████████░░   91.70 % 
+SQL                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 17 mins      ███████████████████░░░░░░   77.80 % 
-Claude Code              4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Chrome                   17 hrs 34 mins      ████████████████████████░   97.78 % 
+Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-simple-auction-next      5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-campus-web               4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-rtk                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-digication-docs          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+digication-monorepo      5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
+simple-auction-next      5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
+campus-web               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Campus                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+rtk                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 💻 Operating System: 
-Mac                      20 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 38 mins (22.2%)
+⏱ AI Coding Time: 23 mins (2.22%)
 
-✍️ 1,723 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 122 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 188,195,253 Input Tokens, 446,680 Output Tokens
+🔤 25,710,083 Input Tokens, 34,498 Output Tokens
 
-💵 $939.65 Estimated AI Cost This Week
+💵 $129.33 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 68 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-Opus                     1,740 lines         █████████████████████████   100.00 % 
+Opus                     122 lines           █████████████████████████   100.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,247 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 961 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -271,5 +268,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 20:06:10 UTC
+ Last Updated on 13/08/2026 19:58:40 UTC
 <!--END_SECTION:CodingStats-->
