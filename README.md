@@ -162,7 +162,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2040%20mins-blue?style=flat)
 
@@ -207,21 +207,21 @@ Sunday                   359 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    12 hrs 9 mins       ███████████████████████░░   92.99 % 
-SQL                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Other                    13 hrs 28 mins      ███████████████████████░░   91.50 % 
+SQL                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 4 mins       █████████████████████████   100.00 % 
+Chrome                   14 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.01 % 
-Campus                   4 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
-simple-auction-next      2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-soc2-agent               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-campus-web               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+digication-monorepo      6 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
+Campus                   5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+campus-web               1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+soc2-agent               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+simple-auction-next      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -247,5 +247,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:59:19 UTC
+ Last Updated on 15/08/2026 19:21:21 UTC
 <!--END_SECTION:CodingStats-->
