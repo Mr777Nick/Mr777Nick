@@ -207,19 +207,19 @@ Sunday                   359 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    12 hrs 9 mins       █████████████████████░░░░   85.32 % 
-SQL                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Other                    10 hrs 47 mins      █████████████████████░░░░   83.77 % 
+SQL                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 15 mins      █████████████████████████   100.00 % 
+Chrome                   12 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      13 hrs 4 mins       ███████████████████████░░   91.69 % 
-ops                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-release-please-action    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+digication-monorepo      11 hrs 42 mins      ███████████████████████░░   90.81 % 
+ops                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+release-please-action    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      14 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,5 +245,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 19:25:48 UTC
+ Last Updated on 23/08/2026 19:24:45 UTC
 <!--END_SECTION:CodingStats-->
