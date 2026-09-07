@@ -170,9 +170,9 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 **🐱 My GitHub Data** 
 
-> 📦 144.4 kB Used in GitHub's Storage 
+> 📦 144.5 kB Used in GitHub's Storage 
  > 
-> 🏆 681 Contributions in the Year 2026
+> 🏆 722 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -183,21 +183,21 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1632 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-🌆 Daytime                64107 commits       ██████████████░░░░░░░░░░░   55.70 % 
-🌃 Evening                38524 commits       ████████░░░░░░░░░░░░░░░░░   33.47 % 
-🌙 Night                  10822 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+🌞 Morning                1644 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+🌆 Daytime                65187 commits       ██████████████░░░░░░░░░░░   55.80 % 
+🌃 Evening                39051 commits       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌙 Night                  10937 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   10529 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Tuesday                  26014 commits       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Wednesday                27385 commits       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Thursday                 29348 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Friday                   19826 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Saturday                 1582 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Sunday                   401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Monday                   10725 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Tuesday                  26413 commits       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Wednesday                27703 commits       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Thursday                 29793 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Friday                   20144 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 1640 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Sunday                   401 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 
@@ -207,19 +207,20 @@ Sunday                   401 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    21 hrs 25 mins      ███████████████████████░░   93.68 % 
-SQL                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Other                    23 hrs 32 mins      ████████████████████████░   94.65 % 
+SQL                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 51 mins      █████████████████████████   100.00 % 
+Chrome                   24 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-soc2-agent               13 hrs 27 mins      ███████████████░░░░░░░░░░   58.88 % 
-digication-monorepo      8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
-campus-web               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+soc2-agent               13 hrs 53 mins      ██████████████░░░░░░░░░░░   55.88 % 
+digication-monorepo      9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.38 % 
+cli                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+campus-web               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Mac                      22 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,5 +246,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 21:06:38 UTC
+ Last Updated on 07/09/2026 22:07:34 UTC
 <!--END_SECTION:CodingStats-->
