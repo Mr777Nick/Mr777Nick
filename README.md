@@ -170,7 +170,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 **🐱 My GitHub Data** 
 
-> 📦 145.0 kB Used in GitHub's Storage 
+> 📦 145.1 kB Used in GitHub's Storage 
  > 
 > 🏆 808 Contributions in the Year 2026
  > 
@@ -207,21 +207,21 @@ Sunday                   411 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    14 hrs 49 mins      ███████████████████░░░░░░   76.12 % 
-SQL                      4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Other                    13 hrs 25 mins      ████████████████████░░░░░   79.99 % 
+SQL                      3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 28 mins      █████████████████████████   100.00 % 
+Chrome                   16 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      14 hrs 54 mins      ███████████████████░░░░░░   76.53 % 
-Program-Assessment       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-support                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-campus-web               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-server                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+digication-monorepo      12 hrs 12 mins      ██████████████████░░░░░░░   72.75 % 
+Program-Assessment       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+support                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+campus-web               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+server                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Mac                      19 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -247,5 +247,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:52:51 UTC
+ Last Updated on 27/09/2026 21:58:33 UTC
 <!--END_SECTION:CodingStats-->
