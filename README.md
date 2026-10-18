@@ -207,42 +207,42 @@ Sunday                   415 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    14 hrs 42 mins      ████████████████░░░░░░░░░   64.92 % 
-Markdown                 3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Text                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Other                    14 hrs 40 mins      ████████████████░░░░░░░░░   64.88 % 
+Markdown                 3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Text                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 30 mins      ██████████████░░░░░░░░░░░   55.19 % 
-Chrome                   9 hrs 39 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
+Claude Code              12 hrs 28 mins      ██████████████░░░░░░░░░░░   55.15 % 
+Chrome                   9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
 Codex Exec               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-soc2-agent               8 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.46 % 
-digication-monorepo      5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-campus-web               5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+soc2-agent               8 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.50 % 
+digication-monorepo      5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+campus-web               5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
 work-orchestrator        1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-scratch-2026-09-21-7ddd9155 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+scratch-2026-09-21-7ddd9154 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Mac                      22 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 58 mins (57.31%)
+⏱ AI Coding Time: 12 hrs 57 mins (57.27%)
 
 ✍️ 1,597 lines written by AI, 2 lines written by hand (99.87% AI-written)
 
-🔤 35,081,360 Input Tokens, 2,535,783 Output Tokens
+🔤 35,016,817 Input Tokens, 2,530,046 Output Tokens
 
-💵 $391.02 Estimated AI Cost This Week
+💵 $390.57 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 234 AI Prompts
+🧠 73 AI Sessions, 234 AI Prompts
 
 Opus                     1,597 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -272,5 +272,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 21:19:49 UTC
+ Last Updated on 18/10/2026 21:26:16 UTC
 <!--END_SECTION:CodingStats-->
