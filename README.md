@@ -207,21 +207,21 @@ Sunday                   415 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    20 hrs 16 mins      ██████████████████████░░░   89.33 % 
-SQL                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Other                    18 hrs 38 mins      ██████████████████████░░░   88.50 % 
+SQL                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 42 mins      █████████████████████████   100.00 % 
+Chrome                   21 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      10 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.13 % 
-campus-web               5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-soc2-agent               4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Campus                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-ops                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+digication-monorepo      10 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.64 % 
+campus-web               4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+soc2-agent               4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Campus                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+ops                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Mac                      22 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -247,5 +247,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 22:05:11 UTC
+ Last Updated on 24/10/2026 21:32:03 UTC
 <!--END_SECTION:CodingStats-->
