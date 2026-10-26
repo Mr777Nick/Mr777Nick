@@ -172,7 +172,7 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 > 📦 145.8 kB Used in GitHub's Storage 
  > 
-> 🏆 998 Contributions in the Year 2026
+> 🏆 1,067 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -183,20 +183,20 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1825 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-🌆 Daytime                70654 commits       █████████████░░░░░░░░░░░░   53.78 % 
-🌃 Evening                45994 commits       █████████░░░░░░░░░░░░░░░░   35.01 % 
-🌙 Night                  12894 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+🌞 Morning                1836 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+🌆 Daytime                70572 commits       █████████████░░░░░░░░░░░░   53.61 % 
+🌃 Evening                46276 commits       █████████░░░░░░░░░░░░░░░░   35.15 % 
+🌙 Night                  12960 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   12613 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Tuesday                  29225 commits       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Wednesday                30647 commits       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Thursday                 32938 commits       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Friday                   22934 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Saturday                 2595 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Monday                   12697 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  29243 commits       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Wednesday                30744 commits       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Thursday                 32945 commits       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Friday                   22977 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Saturday                 2623 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 Sunday                   415 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
@@ -207,21 +207,21 @@ Sunday                   415 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    18 hrs 38 mins      ██████████████████████░░░   88.50 % 
-SQL                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Other                    17 hrs 10 mins      ██████████████████████░░░   87.66 % 
+SQL                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 3 mins       █████████████████████████   100.00 % 
+Chrome                   19 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-digication-monorepo      10 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.64 % 
-campus-web               4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-soc2-agent               4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Campus                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-ops                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+digication-monorepo      10 hrs 13 mins      █████████████░░░░░░░░░░░░   52.21 % 
+soc2-agent               6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Campus                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+campus-web               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+ops                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Mac                      21 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -247,5 +247,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:34:04 UTC
+ Last Updated on 26/10/2026 23:15:49 UTC
 <!--END_SECTION:CodingStats-->
