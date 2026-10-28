@@ -170,9 +170,9 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 
 **🐱 My GitHub Data** 
 
-> 📦 145.8 kB Used in GitHub's Storage 
+> 📦 145.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,073 Contributions in the Year 2026
+> 🏆 1,087 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -183,21 +183,21 @@ https://www.credly.com/badges/222febce-ef05-4011-8889-b9c75e1f9fa5)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1828 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-🌆 Daytime                69828 commits       █████████████░░░░░░░░░░░░   53.53 % 
-🌃 Evening                45900 commits       █████████░░░░░░░░░░░░░░░░   35.18 % 
-🌙 Night                  12899 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+🌞 Morning                1838 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+🌆 Daytime                71039 commits       █████████████░░░░░░░░░░░░   53.73 % 
+🌃 Evening                46372 commits       █████████░░░░░░░░░░░░░░░░   35.08 % 
+🌙 Night                  12955 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   12668 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Tuesday                  28965 commits       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Wednesday                30390 commits       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Thursday                 32670 commits       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Friday                   22717 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Saturday                 2630 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Sunday                   415 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Monday                   12858 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Tuesday                  29456 commits       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Wednesday                30649 commits       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Thursday                 33153 commits       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Friday                   23019 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Saturday                 2654 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Sunday                   415 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 
@@ -207,21 +207,21 @@ Sunday                   415 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    17 hrs 22 mins      ████████████████████████░   94.02 % 
-SQL                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    13 hrs 43 mins      ███████████████████████░░   90.40 % 
+SQL                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 29 mins      █████████████████████████   100.00 % 
+Chrome                   15 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-soc2-agent               9 hrs 26 mins       █████████████░░░░░░░░░░░░   51.06 % 
-digication-monorepo      6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-Campus                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-ops                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-campus-web               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+soc2-agent               11 hrs 17 mins      ███████████████████░░░░░░   74.42 % 
+Campus                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+digication-monorepo      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+ops                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+campus-web               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      18 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -233,11 +233,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
-JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -247,5 +247,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mr777Nick/Mr777Nick/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 23:01:34 UTC
+ Last Updated on 28/10/2026 23:15:12 UTC
 <!--END_SECTION:CodingStats-->
